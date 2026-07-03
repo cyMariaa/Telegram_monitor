@@ -12,27 +12,27 @@
 
 ### 机器人首页
 
-(assets/01.png)
+![01](assets/01.png)
 
 ### 关键词管理
 
-![关键词管理](assets/02.png)
+![02](assets/02.png)
 
 ### 监听账号管理
 
-![监听账号管理](assets/03-account.png)
+![03](assets/03.png)
 
 ### 监听目标管理
 
-![监听目标管理](assets/04-targets.png)
+![04](assets/04.png)
 
 ### 关键词命中通知
 
-![关键词命中通知](assets/05-notification.png)
+![05](assets/05.png)
 
 ### Excel数据导出
 
-![Excel数据导出](assets/06-export.png)
+![06](assets/06.png)
 
 ## 主要功能
 
