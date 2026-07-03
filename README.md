@@ -12,11 +12,11 @@
 
 ### 机器人首页
 
-![机器人首页](assets/01-home.png)
+(assets/01.png)
 
 ### 关键词管理
 
-![关键词管理](assets/02-keywords.png)
+![关键词管理](assets/02.png)
 
 ### 监听账号管理
 
