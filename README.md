@@ -1,6 +1,6 @@
 # Telegram 关键词监听机器人
 
- [💬 商务合作](https://t.me/cy_MariaBuild) · [📢 项目频道](https://t.me/Maria_Build)
+ [💬 TG商务合作](https://t.me/cy_MariaBuild) · [📢 TG项目频道](https://t.me/Maria_Build)
 
 > 本仓库仅用于项目功能展示与商务合作介绍，不提供核心源码、数据库、Session及一键安装包。
 
